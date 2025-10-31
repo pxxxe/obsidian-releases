@@ -18709,5 +18709,12 @@
     "author": "zmister",
     "description": "Synchronize documents between your vault and MrDoc.",
     "repo": "zmister2016/obsidian-mrdoc"
+  },
+  {
+    "id": "obsidian-trollbox",
+    "name": "Obsidian Trollbox",
+    "author": "pxxxe",
+    "description": "Chat with other Obsidian users over Nostr relays",
+    "repo": "pxxxe/obsidian-trollbox"
   }
 ]
